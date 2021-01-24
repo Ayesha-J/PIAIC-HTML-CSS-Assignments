@@ -1,0 +1,40 @@
+
+#pink {
+        background-color: pink;
+}
+
+#yellow{
+        background-color: yellow;
+}
+#p{
+        background-color: rgb(113, 130, 230);
+}
+#y{
+        background-color: rgb(221, 154, 9);
+}
+#b{
+        background-color: rgb(114, 58, 12);
+}
+#g{
+        background-color: rgb(47, 94, 47);
+}
+#blue{
+        background-color: rgb(92, 92, 228);
+}
+#purple{
+        background-color: blueviolet;
+}
+#pi{
+        background-color: rgb(230, 113, 128);
+}
+.pin{
+        background-color: rgb(223, 69, 94);
+}
+td {
+        padding:5px;
+         text-align: center;
+         border: 2px solid black;
+        }
+table {
+        border: 2px solid black;
+}
